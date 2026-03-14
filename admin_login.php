@@ -1,24 +1,3 @@
-<?php
-session_start();
-
-if(isset($_POST['login'])){
-
-$username = $_POST['username'];
-$password = $_POST['password'];
-
-if($username=="sumahi" && $password=="@2026"){
-
-$_SESSION['admin_logged_in']=true;
-header("Location: dashboard.php");
-exit;
-
-}else{
-$error="Invalid Username or Password";
-}
-
-}
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -222,7 +201,7 @@ width:130px;
 </form>
 
 <div class="footer">
-© 2026 Sumahi Media Pvt Ltd
+Â© 2026 Sumahi Media Pvt Ltd
 </div>
 
 </div>
