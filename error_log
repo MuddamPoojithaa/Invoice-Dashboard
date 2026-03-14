@@ -1,0 +1,440 @@
+[07-Feb-2026 11:04:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php:2
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php on line 2
+[07-Feb-2026 11:04:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php:2
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php on line 2
+[07-Feb-2026 11:04:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php:2
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php on line 2
+[07-Feb-2026 11:05:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:6
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 6
+[07-Feb-2026 11:34:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php:2
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php(2): mysqli->__construct()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php on line 2
+[07-Feb-2026 11:34:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:6
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 6
+[07-Feb-2026 11:46:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'invoiceuser'@'localhost' (using password: YES) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php:6
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php on line 6
+[07-Feb-2026 11:46:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'invoiceuser'@'localhost' (using password: YES) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:9
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(9): mysqli->__construct()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 9
+[07-Feb-2026 12:07:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0)' at line 1 in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:42
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(42): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 42
+[14-Feb-2026 09:05:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0)' at line 3 in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:89
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(89): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 89
+[14-Feb-2026 09:09:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0)' at line 3 in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:89
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(89): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 89
+[14-Feb-2026 09:09:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0)' at line 3 in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:89
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(89): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 89
+[14-Feb-2026 09:32:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0)' at line 3 in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:89
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(89): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 89
+[14-Feb-2026 09:32:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0)' at line 3 in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:89
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(89): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 89
+[14-Feb-2026 11:01:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 0)' at line 3 in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:89
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(89): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 89
+[14-Feb-2026 11:07:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 7
+[14-Feb-2026 11:07:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 8
+[14-Feb-2026 11:07:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 9
+[14-Feb-2026 11:07:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 10
+[14-Feb-2026 11:07:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 11
+[14-Feb-2026 11:07:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 12
+[14-Feb-2026 11:07:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 13
+[14-Feb-2026 11:07:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ',)' at line 4 in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:73
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(73): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 73
+[14-Feb-2026 11:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 7
+[14-Feb-2026 11:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 8
+[14-Feb-2026 11:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 9
+[14-Feb-2026 11:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 10
+[14-Feb-2026 11:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 11
+[14-Feb-2026 11:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 12
+[14-Feb-2026 11:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 13
+[14-Feb-2026 11:40:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ',)' at line 4 in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:73
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php(73): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 73
+[14-Feb-2026 11:59:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php:21) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php on line 27
+[14-Feb-2026 11:59:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php:21) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php on line 27
+[14-Feb-2026 12:01:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php:21) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/get_invoices.php on line 27
+[14-Feb-2026 12:32:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:1) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 605
+[14-Feb-2026 12:32:00 UTC] PHP Warning:  Undefined array key "id" in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 608
+[14-Feb-2026 12:32:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:1) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 627
+[14-Feb-2026 12:32:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:1) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 680
+[14-Feb-2026 12:32:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:1) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 605
+[14-Feb-2026 12:32:09 UTC] PHP Warning:  Undefined array key "id" in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 608
+[14-Feb-2026 12:32:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:1) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 627
+[14-Feb-2026 12:32:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php:1) in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/save_invoice.php on line 680
+[12-Mar-2026 12:19:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:19:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:19:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:19:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:20:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:20:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:21:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:21:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:21:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:21:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:22:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:22:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:22:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:22:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:22:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:22:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:22:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:22:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:23:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:25:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:25:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:25:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:25:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:25:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:26:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:26:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:26:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:27:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:43
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(43): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 43
+[12-Mar-2026 12:37:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:30
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(30): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 30
+[12-Mar-2026 12:38:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:30
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(30): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 30
+[12-Mar-2026 12:38:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:30
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(30): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 30
+[12-Mar-2026 12:38:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:30
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(30): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 30
+[12-Mar-2026 12:38:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'SELECT' in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php:30
+Stack trace:
+#0 /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php(30): mysqli->query()
+#1 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/dashboard_data.php on line 30
+[13-Mar-2026 05:57:34 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 05:57:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 05:57:37 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 05:57:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 05:57:40 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 05:57:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 05:58:02 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 05:58:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 05:58:03 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 05:58:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 3
+[13-Mar-2026 06:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 19
+[13-Mar-2026 06:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 20
+[13-Mar-2026 06:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 21
+[13-Mar-2026 06:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 22
+[13-Mar-2026 06:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 36
+[13-Mar-2026 06:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 37
+[13-Mar-2026 06:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 38
+[13-Mar-2026 06:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 39
+[13-Mar-2026 06:00:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 52
+[13-Mar-2026 06:00:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 19
+[13-Mar-2026 06:00:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 20
+[13-Mar-2026 06:00:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 21
+[13-Mar-2026 06:00:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 22
+[13-Mar-2026 06:00:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 36
+[13-Mar-2026 06:00:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 37
+[13-Mar-2026 06:00:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 38
+[13-Mar-2026 06:00:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 39
+[13-Mar-2026 06:00:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 52
+[13-Mar-2026 06:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 19
+[13-Mar-2026 06:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 20
+[13-Mar-2026 06:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 21
+[13-Mar-2026 06:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 22
+[13-Mar-2026 06:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 36
+[13-Mar-2026 06:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 37
+[13-Mar-2026 06:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 38
+[13-Mar-2026 06:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 39
+[13-Mar-2026 06:00:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 52
+[13-Mar-2026 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 19
+[13-Mar-2026 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 20
+[13-Mar-2026 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 21
+[13-Mar-2026 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 22
+[13-Mar-2026 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 36
+[13-Mar-2026 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 37
+[13-Mar-2026 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 38
+[13-Mar-2026 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 39
+[13-Mar-2026 06:01:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/download_invoice.php on line 52
+[13-Mar-2026 12:43:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:43:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:43:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:51:05 UTC] PHP Warning:  include(db_connection.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:51:05 UTC] PHP Warning:  include(db_connection.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:51:05 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:51:05 UTC] PHP Warning:  Undefined variable $conn in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 25
+[13-Mar-2026 12:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 25
+[13-Mar-2026 12:51:16 UTC] PHP Warning:  include(db_connection.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:51:16 UTC] PHP Warning:  include(db_connection.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:51:16 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:51:16 UTC] PHP Warning:  Undefined variable $conn in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 25
+[13-Mar-2026 12:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 25
+[13-Mar-2026 12:54:07 UTC] PHP Warning:  include(db_connection.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:54:07 UTC] PHP Warning:  include(db_connection.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:54:07 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 8
+[13-Mar-2026 12:54:07 UTC] PHP Warning:  Undefined variable $conn in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 25
+[13-Mar-2026 12:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/fetch_revenue.php on line 25
+[14-Mar-2026 12:04:00 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:04:00 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:04:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:04:08 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:04:08 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:04:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:04:17 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:04:17 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:04:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:08:11 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:08:11 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:08:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:08:45 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:08:45 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:08:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:08:55 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:08:55 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:08:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:22:44 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:22:44 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:22:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:23:08 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:23:08 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
+[14-Mar-2026 12:23:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/osza4kk80cim/public_html/sumahimedia.com/Invoice/send_invoice_email.php on line 2
